@@ -1,4 +1,5 @@
 # Bayesian Workshops
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sachinruk/bayes_school/master)
 A set of introductory tutorials for Bayesian analysis with pymc3.
 
 ## Installation
